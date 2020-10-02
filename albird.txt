@@ -1,5 +1,0 @@
-Consumer Key (API Key): 3nsDN3kwGkUlfSqJHabBtBT7x
-Consumer Secret (API Secret): 8zYR4gxao28HHi95e0ND5VnJgvOwzoBjp5dciR1YGIVNzOdnWJ
-Bearer token: AAAAAAAAAAAAAAAAAAAAADMDHwEAAAAAYdwj7e6eMk1tlmvC1y%2BhI8GXdc4%3Dm9qoMh3kYODPKCp3BdnK7FLQddEHpC3zxCCsRUlMHBBxv8GxAW
-Access token: 1306210764252950529-kZVddBWCQQn09ASQhXILm77cUcsKoa
-Access token secret: FRnVtIWGhon963IkK5tlRzreI30vfqlfqiQuO739mOcLa
